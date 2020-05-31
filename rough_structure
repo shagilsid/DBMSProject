@@ -4,7 +4,13 @@ Cultural
 Synopsis
 Name: recreational activity registration system (R.A.R.S.)
 [
-Like culture and art, recreation, leisure and sports activities play an important role in communities. Their many benefits include improving the health and well-being of individuals, contributing to the empowerment of individuals, and promoting the development of inclusive communities. Recreation, leisure and sports activities may involve individuals, small groups, teams or whole communities and are relevant to people of all different ages, abilities and levels of skill. The types of recreation, leisure and sports activities people participate in vary greatly depending on local context, and tend to reflect the social systems and cultural values.
+Like culture and art, recreation, leisure and sports activities play an important role in communities. 
+Their many benefits include improving the health and well-being of individuals, contributing to the 
+empowerment of individuals, and promoting the development of inclusive communities. Recreation, leisure 
+and sports activities may involve individuals, small groups, teams or whole communities and are relevant 
+to people of all different ages, abilities and levels of skill. The types of recreation, leisure and 
+sports activities people participate in vary greatly depending on local context, and tend to 
+reflect the social systems and cultural values.
 ]
 
 The aim is to create UI system which is capable to enhance user experience while organising or registering for events.
