@@ -1,0 +1,10 @@
+Users,EventType, Events, Registration
+Users('userid', 'username', 'password','contact_num','email','department','family_members');
+
+EventType('type_id','type_name);
+
+Events('eventid', 'event_name', 'event_date_time', 'event_type{foreign key to EventType}','event_place', 'organiser id{foreign key to userid_Users}',
+'max_attendees','fees','');
+
+Registration('reg_id varchar(20)','event_id{foreign key to Events}','user_id{foreign key to Users}','members_count','timestamp','fees');
+
